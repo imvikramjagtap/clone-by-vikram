@@ -1,0 +1,761 @@
+.creator{
+    background-color: white;
+    color: #2b1e16;
+    text-align: center;
+    font-size: 24px;
+    padding: 0;
+    margin: 0;
+}
+
+.creator h6{
+    padding: 5px;
+    margin: 0;
+}
+
+.swiggy-body{
+    margin: 0 0;
+    font-family:arial,Helvetica Neue , sans-serif;
+    color: #282c3f;
+}
+
+
+.maindiv{
+    height: 450px;
+    padding: 80px 0px 70px 80px;
+    position: relative; 
+}
+
+svg{
+    display: inline-flex;
+    z-index: 0;
+}
+.lobut{
+    position: absolute;
+    top: 92px;
+   left: 490px;
+}
+#login{
+    padding: 10px 10px;
+    background-color:transparent;
+    border:none;
+    padding: 10px 30px;
+    margin: 0px;
+    cursor: pointer;
+}
+
+#signup{
+    background-color: black;
+    color: white;
+    border:none;
+    padding: 10px 30px;
+    cursor: pointer;
+}
+
+.pdx{
+   position: absolute;
+   top: 27%;
+}
+.pdx h1{
+    margin-bottom: 0;
+    font-size: 40px;
+    display: block;
+}
+.pdx h3{
+    margin : 0 auto 0;
+    display: block;
+    padding-top: 10px;
+    color: #686b78;
+    font-weight:300;
+    font-size:24px;
+}
+.search{
+   display: flex;
+    margin: 50px 0 30px;
+    font-weight: 600;
+}
+
+.lome{
+    position: absolute;
+    right: 190px;
+    top: 181px;
+    font-weight: 100;
+    font-size: 14px;
+    letter-spacing: 0;
+    color: #686b78;
+}
+.search input{
+    background-color: transparent;
+    border: solid 1px #686b78;
+    padding: 20px 0 20px 20px;
+    width: 420px;  
+    outline: none; 
+}
+.search input:focus{
+    border-color: #fc8019;
+}
+.search button{
+    padding: 20px 45px ;
+    margin: 0px;
+    background-color: #fc8019;
+    font-size: 16px;
+    font-weight: 600;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+.citi h4{
+    color: #a9abb2;
+    font-size: 16px;
+    font-weight: 6000;
+    margin-bottom: 0px;
+}
+
+.citi p{
+    font-weight: 600;
+    font-size: 16px;
+    color: #686b78;
+    
+}
+
+.citi span{
+    color: #93959f;
+}
+.pltt{
+    position: absolute;
+    left: 55%;
+    right: 0px;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100%;
+    top: 0;
+    background-image: url(https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_1340/Lunch1_vlksgq);
+}
+
+.whyus{
+    background-color: #2b1e16;
+    display: flex;
+    position: relative;
+    justify-content: space-around;
+    text-align: center;
+    color: white;
+    height: 385px;
+}
+
+.whyus h3{
+    margin: 45px auto 0;
+    font-weight: 600;
+}
+
+.whyus p{
+    margin-top: 10px;
+    color: #e0cbc1;
+}
+.nomini{
+    margin-top: 10px;
+}
+
+.nomini img{
+    width: 105px;
+    height: 199px;
+
+}
+
+.lot img{
+    width: 112px;
+    height: 206px;
+}
+
+.lfd{
+    margin-top: 20px;
+}
+
+.lfd img{
+    width: 124px;
+    height: 188px;
+
+}
+
+.weon{
+    position: relative;
+    height: 554px;
+}
+
+.resto-app{
+    position: absolute;
+    left: 9%;
+    margin-top:100px;
+}
+
+.resto-app h2{
+    font-size: 40px;
+    margin-bottom: 0;
+}
+
+.resto-app p{
+    color: #7e808c;
+    font-size:20px;
+    font-weight: 400;
+}
+
+.resto-app img{
+    height: 54px;
+    width: 180px;
+    padding: 40px 10px;
+    
+}
+
+#gp{
+    padding-left: 0;
+}
+
+.moimg1{
+    position: absolute;
+    top: 0;
+    right: 375px;
+}
+
+.moimg2{
+    position: absolute;
+    top:65px;
+    right: 0;
+}
+
+.footer{   
+    background-color: black;
+}
+
+.foo-con{
+    padding: 50px 10px;
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    border-bottom: solid 1px white;
+}
+.foo-con h5{
+    color: gray;
+}
+.footer li{
+    list-style-type: none;
+    padding: 10px 0;
+    color: white;
+}
+
+
+
+.app-img img{
+    border: solid 1px white;
+    border-radius: 10px;
+}
+
+/*****************************************Red Bus COde down side***************************************/
+
+
+.redbus-body{
+    margin: 0;
+    font-family: sans-serif;
+    color:#4a4a4a;
+
+}
+
+.redbus-body button{
+    cursor: pointer;
+}
+
+.fist-div{
+    background-image: url(https://st.redbus.in/Images/HomeIndia/nataknew.png);
+    height: 480px;
+    background-size: cover;
+    width: 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.logo-row{
+     padding:0px 70px;
+     background-color: #d84f57;
+    }
+
+ .logo-row img{
+     float: left;
+    }
+
+.logo-row li{
+    list-style-type: none;
+    display: inline-flex;
+    padding:12px 10px 0 ;
+    margin: 1px;
+    font-size: 14px;
+    color: white;
+    font-weight: 300;
+}
+
+.logo-row a:link{
+    color: white;
+}
+
+#sel{
+    border-bottom: solid 2px white;
+    padding: 15px;
+}
+
+.rig-hep{
+    float: right;
+    color: white;
+    margin-right: 50px;
+   padding: 3px 0;    
+    
+}
+
+.rig-hep li{
+    padding-right: 5px;
+}
+
+#mntt{
+    padding-right: 0;
+}
+
+
+
+.main-searchbox{
+    position: absolute;
+    top: 240px; 
+    left: 25%;
+    display: flex;
+    
+}
+
+.main-searchbox input{
+    height: 41px;
+    margin: 0;
+    width: 180px;
+   
+}
+
+#div-searchbutt{
+    height:45px;
+    width: 130px;
+    background-color: #d84f57;
+    border: none;
+    color: white;
+    font-weight: 700;
+}
+
+.no-more-natak{
+    text-align: justify;
+    position: relative;
+    margin-top: -55px;
+    left:32%;
+    background-color: white;
+    height:80px;
+    width: 465px;
+    box-shadow:0px 0px 10px;
+    padding: 0px 10px 20px 30px;
+
+}
+
+.stage-drama{
+    position: absolute;
+    top: 1px;
+    left:120px;
+    text-align: left;
+    padding:8px 25px 0px 25px;
+}
+
+.stage-drama h3{
+    margin-bottom: 5px;
+}
+
+.stage-drama p{
+    margin:5px 0 0 ;
+}
+
+.offer-tiles{
+
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    padding: 100px 100px;
+    font-size: 10px;
+    background-color: #f7f7f7;
+    margin-top: -44px;
+    
+}
+
+.offer-tiles>div{
+    width: 330px;
+    box-shadow: 0px 1px 10px #c3c3c3;
+    padding: 20px 5px;
+    
+    border: none;
+    border-radius: 3px;
+    font-weight: 500;
+}
+
+.covid-div{
+    background-color: white;
+    padding: 50px 40px 0;
+    transform: scale
+}
+.covid{
+    margin: 20px 80px 0px ;
+    border: solid 1px #ddd;
+   
+    
+}
+.covid-png img{
+    float: left;
+    margin: 20px;
+    height: 88px;
+    width: 88px;
+}
+
+.covid-heading{
+    margin: 0px;
+    padding: 0px 50px;
+    
+}
+
+.covid-heading h3{
+    margin: 0px 0 0 32px;
+    padding: 10px 10px 0;
+    font-size: 32px;
+    color: #282c3f
+
+}
+.covid-heading p{
+    color: #7e7e8c;
+    font-size: 24px;
+    margin: 10px 0 0;
+}
+.safknow{
+    font-size: 8px;
+    font-weight: 800;
+}
+
+.covid-sub{
+    padding: 20px 0;
+
+    color: #4a4a4a;
+
+}
+.con-img1{
+    background-image: url(//s3.rdbuz.com/images/webplatform/india/HeroFeature/tip-icon.png);
+    width: 24px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    float: left;
+    margin: 5px 0;
+}
+
+.con-img2{
+    background-image: url(//st.redbus.in/Images/safety/landing/measures/safety_plus_tag.svg);
+    width: 74px;
+    height: 18px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: contain;
+   
+}
+
+.covid-table{
+    padding: 20px 0;
+}
+
+.covid-table th{
+    text-align: left;
+    padding: 0px;
+    color: #1446a0;
+    font-weight: 900;
+   
+}
+
+.covid-table td{
+    padding: 10px 60px 0 0;
+    
+}
+
+.convi-on-div{
+    position: relative;
+    background-color: white;
+    height: 650px;
+    
+}
+
+.conci-on-div-content{
+    float: left;
+    margin: 70px 100px 70px 150px;
+    width: 40%;
+    z-index: 2;
+    position: absolute;
+ 
+}
+
+.conci-on-div-content h2{
+    font-size: 38px;
+}
+.conci-on-div-content p{
+    font-size: 14px;
+    width: 480px;
+
+}
+.conci-on-div-content input{
+    padding: 5px 30px 5px 5px;
+    font-size: 15px;
+}
+
+#conci-btt{
+    display: block;
+    padding: 8px;
+    margin: 10px 80px;
+    color: white;
+    background-color: #d84e55;
+    border: none;
+}
+
+.conci-on-div-content select{
+    padding: 6px 30px 5px 0;
+}
+
+.conci-on-div-img{
+    position: absolute;
+    right: 100px;
+    top: 120px;
+    z-index: 1;
+  
+}
+
+.bg-img-div{
+    position: absolute;
+    z-index: 0;
+    top: 250px;
+    width: 100%;
+    opacity: 0.2;
+    
+
+}
+
+.pro-del{
+    text-align: center;
+    background-color:#f7f7f7;
+    padding: 30px 10px;
+}
+
+.pro-del-tiles{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px 80px;
+}
+
+.pro-del-tiles>div{
+    background-color: white;
+    padding: 25px;
+    box-shadow: 0 0 1.2px #686868;
+    width: 400px;
+    vertical-align: top;
+}
+
+.pro-del-tiles p{
+   padding: 12px;
+   margin-top: 0;
+}
+
+.pro-del-tiles h6{
+    color: #4a4a4a;
+    font-weight: 400;
+    font-size: 14px; 
+    margin-bottom: 0;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+  
+}
+
+.awa-rec{
+
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 0 1.2px #686868;
+    text-align: center;
+}
+
+.awa-rec{
+    font-size: 20px;
+    color: #4a4a4a;
+}
+.awa-rec-tiles{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 60px;
+
+}
+
+.awa-rec-tiles>div{
+    padding: 20px;
+    font-size: 14px;
+    letter-spacing: 6px;
+    word-spacing: 6px;
+    line-height: 2;
+ 
+}
+
+.awa-rec-tiles p{
+    padding:50px;
+    margin-top:0;
+}
+
+.country{
+    text-align: center;
+    padding: 20px;
+    background-color: #f7f7f7;
+    box-shadow: 0 0 1.2px #686868;
+  
+    }
+h2{
+    font-size: 30px;
+    color: #4a4a4a;
+    font-weight: 600;
+}
+.flags{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 0 50px 180px;
+}
+.flags img{
+    height: 80px;
+    padding: 30px;
+}
+
+.flags p{
+    letter-spacing: 4px;
+}
+
+.grow-num{
+    text-align: center;
+    padding: 20px;  
+}
+
+.num-tab{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+}
+
+.num-tab>div{
+    width: 200px;
+}
+
+.num-tab h4{
+    color: #da4e52;
+    font-size: 46px;
+    font-weight: 200;
+    margin: 0;
+    padding: 5px;
+}
+
+.ppp{
+    color: #737373;
+    letter-spacing: 2px;
+    font-size: 14px;
+}
+
+.site-map{
+    background-color:#f7f7f7;
+    padding: 20px 10px;
+    height: 100%;
+}
+
+.site-map table{
+    margin: auto;
+    padding: 20px;
+}
+
+.site-map th{
+    padding: 15px 50px;
+    text-align: left;
+    color: #444343;
+}
+
+.site-map td{
+    padding: 5px 50px;
+    color: #444343;
+    cursor: pointer;
+}
+
+ .site-map td:hover{
+     color:#da4e52;
+ }
+
+ .site-map hr{
+     width: 85%;
+ }
+
+ .Operators{
+    background-color:#f7f7f7;
+    height: 300px;
+ }
+ .Operators h6{
+     font-weight: 600;
+     font-size: 16px;
+     margin: 0;
+     padding: 5px 0 30px;
+     color: #444343
+ }
+
+ .Operators ul{
+     list-style-type: none;
+     margin: 0;
+     padding: 20px 100px;
+     border: 0;
+ }
+
+ .Operators li{
+    float: left;
+    padding: 0 10px 0 0;
+    margin-right: 10px;
+    border-right: 1px solid #999;
+    margin-bottom: 10px;
+
+ }
+
+ .Operators a{
+     color: #686868
+ }
+
+ #more-op{
+     float: left;
+     margin-left: 85%;
+ }
+
+ .red-footer{
+     background-color:#1b2330;
+     height: 400px;
+     color: #d7d7d7;
+     padding: 10px;
+ }
+ .tb-foo{
+     margin: 20px 100px;
+     float: left;
+     background-color:#1b2330;
+ }
+ .tb-foo table{
+     margin: auto;
+     text-align: left;
+ }
+ .tb-foo th{
+     padding: 20px 20px;
+     color:#797979;
+     font-weight: 700;
+ }
+
+ .tb-foo td{
+     padding: 5px 20px;
+     font-weight: 500;
+     cursor: pointer;
+ }
+
+ .foo-too-two{
+     padding: 35px 5px;
+    line-height: 2;
+ }
